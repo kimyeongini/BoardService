@@ -52,9 +52,9 @@
 ![BoardService](https://github.com/kimyeongini/BoardService/assets/129055860/ebf62705-95c3-4981-a7e4-8508309383a1)
 
 # 📕 개발 기간
-24.02.19 ~ 
+- 24.02.19 ~ 
 
-## 🖥️ 개발 환경
+# 🖥️ 개발 환경
 - 언어 : Java
 - 프로그램 : IntelliJ IDEA(Ultimate)
 - spring boot 2.6.6
