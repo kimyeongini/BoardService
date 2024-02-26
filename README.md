@@ -49,7 +49,7 @@
 - 4순위 : 그 외 추가 기능(소셜 로그인 기능, 게시글 조회수 기능)
 
 # 📍 ERD
-![BoardService](https://github.com/kimyeongini/BoardService/assets/129055860/ebf62705-95c3-4981-a7e4-8508309383a1)
+![BoardService](https://github.com/kimyeongini/BoardService/assets/129055860/2ded41ac-8769-4c3d-8061-c2bccba04bfe)
 
 # 📕 개발 기간
 - 24.02.19 ~ 
